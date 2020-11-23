@@ -1,0 +1,13 @@
+channel_access_token=
+YSPO5Lo95dWQ8bsn2EEdidVdkljkoDZ6jP1T2cKstGiF1gqu45sdHzujEaCP7CCNdmJarygBaMvmPS8ak8LzgZ54CN9pYO8ZTKDATJs8DzSSqQf6oKWsVruBdm1ZDiO0MgT1EDq60OnECgzuoNLR0wdB04t89/1O/w1cDnyilFU=
+channel_secret = 
+7bb0bef8815d63997732ee31994fa807
+
+
+twitch
+c_id=2n84o544ggw9qjlu375ca1mn5x5t7s
+c_se=p8na4crplh5e7aszjebo6w7g6rrcrt
+token=aomzyxk7q58scv1brzzjjxfxixuscm
+用戶令牌:6ibjxqtm086ba81exm09yx0uolq1qk
+
+
